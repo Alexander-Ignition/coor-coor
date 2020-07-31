@@ -16,7 +16,8 @@ let package = Package(
     ],
     targets: [
         .target(name: "CoorCoor", dependencies: [
-            .product(name: "AWSLambdaRuntime", package: "swift-aws-lambda-runtime")
+            .product(name: "AWSLambdaRuntime", package: "swift-aws-lambda-runtime"),
+            .product(name: "AWSLambdaEvents", package: "swift-aws-lambda-runtime"),
         ]),
     ]
 )
