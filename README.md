@@ -11,3 +11,4 @@ $ curl -X POST http://127.0.0.1:7000/invoke -d @request.json --header "Content-T
 - [Introducing Swift AWS Lambda Runtime](https://swift.org/blog/aws-lambda-runtime/)
 - [Getting started with Swift on AWS Lambda](https://fabianfett.de/getting-started-with-swift-aws-lambda-runtime)
 - [Create your first HTTP endpoint with Swift on AWS Lambda](https://fabianfett.de/swift-on-aws-lambda-creating-your-first-http-endpoint)
+- [Messing with Swift AWS Lambda Runtime (Part 1)](https://www.opticalaberration.com/2020/06/investigating-swift-aws-lambda-runtime.html)
